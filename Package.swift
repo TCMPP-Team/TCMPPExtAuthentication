@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TCMPPExtAuthentication",
-            url: "https://tmf-warehouse-1314481471.cos.ap-beijing.myqcloud.com/tcmpp/ios-sdk/TCMPPExtAuthentication/2.0.1/TCMPPExtAuthentication_2.0.1.xcframework.zip",
-            checksum: "247003a9561dd3323a69bcee20e4789ce7f7c4c990d3b6f4e5fe018fe31a1cc6"
+            url: "https://tmf-warehouse-1314481471.cos.ap-beijing.myqcloud.com/tcmpp/ios-sdk/noshark/TCMPPExtAuthentication/2.0.2/32/TCMPPExtAuthentication_2.0.2.xcframework.zip",
+            checksum: "e054ea72976b8680bf34c067f9675608f21e4b71adacf9ff691ce543c713ff6d"
 
         )
     ]
